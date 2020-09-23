@@ -4,6 +4,10 @@
 
 Window scroll triggers two separate pre-processed images to be morphed together.
 
+## Demo
+
+https://yuichkun.github.io/2d-to-3d/
+
 ## Tools used
 
 - Photoshop
